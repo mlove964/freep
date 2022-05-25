@@ -1,5 +1,5 @@
 # TopFreeProxies
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status//mlove964/freep/sub_merge?label=sub_merge)](https://github.com//mlove964/freep/actions/workflows/sub_merge.yml) 
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status//mlove964/freep/sub_merge?label=sub_merge)](https://github.com//mlove964/freep/actions/workflows/python-package-conda.yml) 
 
 ![Watchers](https://img.shields.io/github/watchers//mlove964/freep) ![Stars](https://img.shields.io/github/stars//mlove964/freep) ![Forks](https://img.shields.io/github/forks//mlove964/freep) ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=/mlove964/freep) ![LICENSE](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
 
